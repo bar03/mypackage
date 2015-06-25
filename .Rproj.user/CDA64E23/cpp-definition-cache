@@ -1,0 +1,32 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/Bar03/Documents/Bartek/Matematyka/kurs R-a/materiały/Prace domowe/6/mypackage/src/zad_6_1.cpp",
+                "kind" : 6,
+                "line" : 21,
+                "name" : "mode_Rcpp(IntegerVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@mode_Rcpp#$@N@Rcpp@C@Vector>#VI13#@N@Rcpp@CT>1#T@PreserveStorage#"
+            }
+        ],
+        "file" : "C:/Users/Bar03/Documents/Bartek/Matematyka/kurs R-a/materiały/Prace domowe/6/mypackage/src/zad_6_1.cpp",
+        "file_last_write" : 1435255174
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 9,
+                "file" : "C:/Users/Bar03/Documents/Bartek/Matematyka/kurs R-a/materiały/Prace domowe/6/mypackage/src/zad_6_2.cpp",
+                "kind" : 6,
+                "line" : 22,
+                "name" : "simplify2array_Rcpp(List)",
+                "parent_name" : "",
+                "usr" : "c:@F@simplify2array_Rcpp#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            }
+        ],
+        "file" : "C:/Users/Bar03/Documents/Bartek/Matematyka/kurs R-a/materiały/Prace domowe/6/mypackage/src/zad_6_2.cpp",
+        "file_last_write" : 1435255184
+    }
+]

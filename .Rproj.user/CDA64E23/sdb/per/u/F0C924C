@@ -1,0 +1,18 @@
+{
+    "contents" : "library(\"mypackage\")\n\n\n\n",
+    "created" : 1435258008262.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1993730805",
+    "id" : "F0C924C",
+    "lastKnownWriteTime" : 2338338480170426731,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
